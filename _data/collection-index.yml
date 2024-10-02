@@ -952,3 +952,8 @@
   contact: https://github.com/rhiroe/features/issues
   repository: https://github.com/rhiroe/features
   ociReference: ghcr.io/rhiroe/features
+- name: Development Container Features by aqua
+  maintainer: Shunsuke Suzuki
+  contact: https://github.com/aquaproj/devcontainer-features/issues
+  repository: https://github.com/aquaproj/devcontainer-features
+  ociReference: ghcr.io/aquaproj/devcontainer-features
